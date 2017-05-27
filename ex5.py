@@ -1,11 +1,11 @@
-name = 'Zed A. Shaw'
+name = 'Takuma K. Bell-Ford'
 age = 35
-height = 74 * 2.54
-weight = 180
+height = 69 * 2.54
+weight = 140
 weight_in_kilos = weight * (1 / 2.2)
-eyes = 'Blue'
+eyes = 'Brown'
 teeth = 'White'
-hair = 'Brown'
+hair = 'Black'
 
 
 print "Let's talk about %s." % name
